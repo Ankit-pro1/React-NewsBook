@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jeremy Herb, Zachary Cohen",
+            "title": "US intel chiefs say China likely to press Taiwan and seek to undercut US - CNN",
+            "description": "US Director of National Intelligence Avril Haines told Congress Wednesday that Chinese President Xi Jinping is likely to press Taiwan and try to undercut US influence in the coming years as he begins a third term as president.",
+            "url": "https://www.cnn.com/2023/03/08/politics/us-intel-chiefs-worldwide-threats-congress/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230308112754-02-worldwide-threats-hearing-230308.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-08T18:39:00Z",
+            "content": "US Director of National Intelligence Avril Haines told Congress Wednesday that Chinese President Xi Jinping is likely to press Taiwan and try to undercut US influence in the coming years as he begins… [+9405 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Timothy Bella",
+            "title": "Tucker Carlson mocked by Anderson Cooper, comedians over Jan. 6 coverage - The Washington Post",
+            "description": "“The idea of Tucker Carlson being in that mob that day and not wetting his pants is hard to imagine,” Cooper said about the Fox News host.",
+            "url": "https://www.washingtonpost.com/media/2023/03/08/tucker-carlson-jan-6-fox-cooper-colbert/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-08-2023/t_8d7cbadf09e1426e906c19c4ada45a60_name_latenightcarlson.jpg&w=1440",
+            "publishedAt": "2023-03-08T18:05:22Z",
+            "content": "Comment on this story\r\nMoments after Michael Fanone criticized Tucker Carlson for his new narrative of the Jan. 6, 2021, attack on the U.S. Capitol, Anderson Cooper told the former D.C. police office… [+5550 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": null,
+            "title": "Google rolling out Android 14 Developer Preview 2 - 9to5Google",
+            "description": "Breaking news on all things Google and Android. We provide breaking Google Pixel news, everything Android, Google Home, Google apps, Chromebooks, and more!",
+            "url": "https://9to5google.com/",
+            "urlToImage": null,
+            "publishedAt": "2023-03-08T18:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Hannah Rabinowitz, Devan Cole, Evan Perez",
+            "title": "Louisville Metro Police Department uses 'excessive force' and 'unlawfully discriminates against Black people,' DOJ report says - CNN",
+            "description": "The Louisville Metro Police Department routinely uses excessive force and practices \"an aggressive style of policing\" against Black people, the Justice Department said Wednesday after an investigation launched following the botched raid that killed Breonna Ta…",
+            "url": "https://www.cnn.com/2023/03/08/politics/louisville-pattern-and-practice-investigation-justice-department/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230308111755-02-louisville-metro-police-hq-file.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-08T17:49:00Z",
+            "content": "The Louisville Metro Police Department routinely uses excessive force and practices an aggressive style of policing against Black people, the Justice Department said Wednesday after an investigation … [+9213 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Kerry Breen",
+            "title": "FBI offers $5,000 reward for info about Missouri teen Jayden Robker, missing for more than a month - CBS News",
+            "description": "Missing 13-year-old Jayden Robker was last seen riding a skateboard on Feb. 2.",
+            "url": "https://www.cbsnews.com/news/jayden-robker-missing-kansas-city-missouri-teen-fbi-5000-reward/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2020/11/22/334d7eaf-261f-42ca-ae07-057fd5fe50a1/thumbnail/1200x630/d6dbae2a184b98b3037d091dc8e50580/GettyImages-935013034.jpg",
+            "publishedAt": "2023-03-08T17:33:20Z",
+            "content": "The Federal Bureau of Investigation is offering a large reward for information about Jayden Robker, a 13-year-old from Missouri who was last seen on Feb. 2. \r\nOn March 8, the agency's Kansas City Fie… [+1287 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Leah Bitsky",
+            "title": "Prince Harry and Meghan Markle's kids, Archie and Lilibet, now have royal titles - Page Six",
+            "description": "The royal family’s official website reportedly plans to update the siblings’ titles from Master Archie and Miss Lilibet to Prince Archie and Princess Lilibet.",
+            "url": "https://pagesix.com/2023/03/08/prince-harry-meghan-markles-kids-now-have-royal-titles/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/03/NYPICHPDPICT000007884306.jpg?quality=75&strip=all&w=1200",
+            "publishedAt": "2023-03-08T17:28:00Z",
+            "content": "Prince Harry and Meghan Markle’s two children, Prince Archie and Princess Lilibet, now have royal titles despite the couple’s exit from the British royal family.\r\nA rep for the Duke and Duchess of Su… [+4333 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Matt Fidler",
+            "title": "Snow and International Women's Day: Wednesday's best photos - The Guardian",
+            "description": "The Guardian’s picture editors select photo highlights from around the world, including highlights from International Women’s Day observed annually worldwide",
+            "url": "https://www.theguardian.com/news/gallery/2023/mar/08/snow-and-international-womens-day-wednesdays-best-photos",
+            "urlToImage": "https://i.guim.co.uk/img/media/ded0ba5db9d82ab13cf68b35de464b8a71dfc0e7/0_185_4038_2424/master/4038.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eaedf9f4c9b83a1ca3048f37ab3d162f",
+            "publishedAt": "2023-03-08T17:16:01Z",
+            "content": "The Guardians picture editors select photo highlights from around the world, including highlights from International Womens Day observed annually worldwide"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. job openings fall to a still-high level in January - Reuters",
+            "description": "U.S. job openings fell less than expected in January and data for the prior month was revised higher, pointing to persistently tight labor market conditions that likely will keep the Federal Reserve on track to raise interest rates for longer.",
+            "url": "https://www.reuters.com/world/us/us-private-payrolls-increase-february-adp-2023-03-08/",
+            "urlToImage": "https://www.reuters.com/resizer/ECRSQhsOEgoRZRg3KfUmIkMZnvE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BD3NWQNBPVP3DKIHIVBN42HUIQ.jpg",
+            "publishedAt": "2023-03-08T17:13:00Z",
+            "content": "WASHINGTON, March 8 (Reuters) - U.S. job openings fell less than expected in January and data for the prior month was revised higher, pointing to persistently tight labor market conditions that likel… [+4485 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "FRANK JORDANS Associated Press",
+            "title": "Germany cautious over Nord Stream pipeline attack reports - ABC News",
+            "description": "Germany’s defense minister has voiced caution over media reports that a pro-Ukraine group was involved in blowing up the Nord Stream gas pipelines in the Baltic Sea last year",
+            "url": "https://abcnews.go.com/International/wireStory/germany-cautious-nord-stream-pipeline-attack-reports-97704037",
+            "urlToImage": "https://s.abcnews.com/images/International/wirestory_d267ad7dcff560c9ecaebf4f213e5229_16x9_992.jpg",
+            "publishedAt": "2023-03-08T17:03:12Z",
+            "content": "BERLIN -- Germanys defense minister voiced caution Wednesday over media reports that a pro-Ukraine group was involved in blowing up the Nord Stream gas pipelines in the Baltic Sea last year.\r\nGerman … [+5826 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nature.com"
+            },
+            "author": null,
+            "title": "Evidence of near-ambient superconductivity in a N-doped lutetium hydride - Nature.com",
+            "description": "A nitrogen-doped lutetium hydride was synthesized under high-pressure high-temperature conditions and, following full recoverability, examination along compression pathways showed evidence of superconductivity at room temperature and near-ambient pressures.",
+            "url": "https://www.nature.com/articles/s41586-023-05742-0",
+            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-023-05742-0/MediaObjects/41586_2023_5742_Fig1_HTML.png",
+            "publishedAt": "2023-03-08T16:46:25Z",
+            "content": "<li>Onnes, H. K. The resistance of pure mercury at helium temperatures. Commun. Phys. Lab. Univ. Leiden12, 120 (1911).\r\nGoogle Scholar \r\n</li><li>Ginzburg, V. L. Nobel Lecture: On superconductivity a… [+14874 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Mike Sando, Mike Jones",
+            "title": "Deciphering the Lamar Jackson franchise tag and moves for Daniel Jones, Derek Carr and more - The Athletic",
+            "description": "A back-and-forth discussion between two experts reveals what may be behind four QB decisions this week and more as NFL free agency nears.",
+            "url": "https://theathletic.com/4286870/2023/03/08/lamar-jackson-daniel-jones-derek-carr-contracts/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/03/08021126/GettyImages-1433918387-1024x683.jpg",
+            "publishedAt": "2023-03-08T16:28:05Z",
+            "content": "NFL free agency doesnt kick off officially for another week, but its been a busy few days around the league as the quarterback market has heated up and teams have used their franchise tag designation… [+12038 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Alicia Wallace, Krystal Hur, Anna Bahney and Nicole Goodkind",
+            "title": "Markets waver as Fed Chair Powell continues testimony - CNN",
+            "description": "Federal Reserve Chairman Jerome Powell is testifying before the House Financial Services Committee on Wednesday in day two of his semiannual monetary policy testimony before Congress.",
+            "url": "https://www.cnn.com/business/live-news/stock-market-house-testimony-jerome-powell-030823/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230213162437-03-nyse-0207-super-tease.jpg",
+            "publishedAt": "2023-03-08T16:16:00Z",
+            "content": "US stocks opened slightly higher on Wednesday as investors struggled for direction after commentary on Tuesday from Federal Reserve Chairman Jerome Powell about inflation rates and the state of the e… [+1882 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "UK PM Sunak Defends New Controversial Crackdown On Illegal Migration - NDTV",
+            "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+            "url": "https://www.ndtv.com/",
+            "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+            "publishedAt": "2023-03-08T16:10:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland",
+            "title": "Astronomers detect water molecules swirling around a star - CNN",
+            "description": "A nearby star system is helping astronomers unravel the mystery of how water appeared in our solar system billions of years ago.",
+            "url": "https://www.cnn.com/2023/03/08/world/solar-system-water-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230307141325-01-v883-orionis-water.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-03-08T16:05:00Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nA nearby star system is helping astronomers unravel th… [+3698 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Video Games Chronicle"
+            },
+            "author": "Jordan Middler",
+            "title": "Starfield release delayed until September, showcase scheduled for June | VGC - Video Games Chronicle",
+            "description": "The game was initially planned to release during the first half of the year…",
+            "url": "https://www.videogameschronicle.com/news/starfield-release-delayed-until-september-direct-scheduled-for-june/",
+            "urlToImage": "https://www.videogameschronicle.com/files/2022/11/starfield-l.jpg",
+            "publishedAt": "2023-03-08T15:07:07Z",
+            "content": "Starfield‘s release date has been delayed into the second half of the year.\r\nIn an announcement video published on Wednesday, Bethesda confirmed that the game, which was initially planned to release … [+2008 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Amanda Macias",
+            "title": "Watch live: America's top spymasters testify on global threats before Senate Intelligence Committee - CNBC",
+            "description": null,
+            "url": "https://www.cnbc.com/2023/03/08/watch-live-americas-top-spymasters-testify-on-global-threats-before-senate-intelligence-committee.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107028394-1646926607541-gettyimages-1239035941-927479-na-pol-0308-capitol-hill-kkn-30791.jpeg?v=1678287563&w=1920&h=1080",
+            "publishedAt": "2023-03-08T14:59:23Z",
+            "content": "[The stream is slated to start at 10 a.m. ET. Please refresh the page if you do not see a video above at that time.]\r\nThe nation's top spymasters will testify before the Senate Intelligence Committee… [+785 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Li Cohen",
+            "title": "Another atmospheric river takes aim at California as the state grapples with snow shutdowns and risk for flooding grows - CBS News",
+            "description": "One county has urged people to gather enough essential supplies for two weeks ahead of the incoming rain and snow.",
+            "url": "https://www.cbsnews.com/news/atmospheric-river-california-state-grapples-snow-flooding/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/03/08/df95ac3f-aa57-45cd-8f0e-47b40e8e89c8/thumbnail/1200x630/7fd1239b2f317f627f308f6ee1461368/gettyimages-1458568629.jpg",
+            "publishedAt": "2023-03-08T14:47:21Z",
+            "content": "California was plagued by a devastating drought for months. Now, after a series of atmospheric rivers and winter storms, the state is being thrashed by significant amounts of snow and rain. \r\nAnd it'… [+4337 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entertainment Tonight"
+            },
+            "author": "Paige Gawley, Anthony Dominic and",
+            "title": "Raquel Leviss Breaks Silence on Tom Sandoval Cheating Scandal (Exclusive) - Entertainment Tonight",
+            "description": "There's a new update in the 'Vanderpump Rules' controversy.",
+            "url": "https://www.etonline.com/raquel-leviss-breaks-silence-on-tom-sandoval-cheating-scandal-exclusive-200419",
+            "urlToImage": "https://www.etonline.com/sites/default/files/styles/max_1280x720/public/images/2023-03/AD-Raquel-Leviss-1280-X-720-HERO-1-IMAGE.jpg?h=c776b695&itok=m57Ph0Vi",
+            "publishedAt": "2023-03-08T14:41:23Z",
+            "content": "Raquel Leviss is coming clean. Amid allegations that she had a months-long affair with Tom Sandoval during his relationship with Ariana Madix, Leviss spoke out about the scandal in an exclusive state… [+4764 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Eric Berger",
+            "title": "NASA studying unexpected performance of Orion’s heat shield ahead of crew mission - Ars Technica",
+            "description": "\"Vigilance is very important for us as we fly crew going forward.\"",
+            "url": "https://arstechnica.com/science/2023/03/nasa-will-target-november-2024-to-send-astronauts-around-the-moon/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/52557403088_e8db1ee2db_6k-760x380.jpg",
+            "publishedAt": "2023-03-08T14:33:00Z",
+            "content": "Enlarge/ NASA's Orion spacecraft descends toward the Pacific Ocean after a successful mission in December.\r\n48 with \r\nAbout three months have passed since NASA's Orion spacecraft splashed down into t… [+2948 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Jennifer Hassan",
+            "title": "Bindi Irwin shares endometriosis struggle on International Women's Day - The Washington Post",
+            "description": "The daughter of the late “Crocodile Hunter” Steve Irwin said on International Women's Day that doctors told her for 10 years that her endometriosis symptoms were « simply something you deal with as a woman. »",
+            "url": "https://www.washingtonpost.com/wellness/2023/03/08/bindi-irwin-endometriosis/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FFL2XQEUVIVJNMGX3MAUQUCOTM_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-03-08T14:27:34Z",
+            "content": "Comment on this story\r\nBindi Irwin, conservationist and daughter of the late Steve Irwin, the renowned Crocodile Hunter, took to Twitter on International Womens Day to share her 10-year struggle with… [+3601 chars]"
+        }
+    ]
+}
